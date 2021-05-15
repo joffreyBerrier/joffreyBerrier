@@ -8,7 +8,7 @@
 
 I'm Joffrey, a self-taught creative Developer and tech enthusiast.
 
-I have been working in IT for 6 years, and open source projects for over 2 years and I love it. I do this in my free time by working 5 days a week at [**LeCollectionist**](https://www.lecollectionist.com/fr) as lead developer front-end.
+I have been working on IT for 6 years, and open source projects for over 2 years and I love it. I do this in my free time by working 5 days a week at [**LeCollectionist**](https://www.lecollectionist.com/fr) as lead developer front-end.
 
 My first repo is a [**vue-spreadsheet**](https://github.com/joffreyBerrier/vue-spreadsheet) component made in vuejs. I have also made a component [**insights-module**](https://github.com/joffreyBerrier/insights-module) for nuxtjs. I also maintain vue libraries like [vue-hotel-datepicker](https://github.com/joffreyBerrier/vue-hotel-datepicker)
 

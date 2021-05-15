@@ -15,11 +15,7 @@ I have started the open source for over 2 years and my first repo was [**vue-spr
 
 At the moment I'm creating a complex **[vue-datepicker](https://github.com/joffreyBerrier/vue-datepicker)** using vue3, vite, ts and tailwind
 
-vuejs I'm a Vuejs developer.
-
-nuxtjs And I mainly use the Nuxt framework to build apps.
-
-I mostly used vuejs and nuxtjs 💚
+I mostly used <img height="15px" alt="vuejs" src="./vuejs.png"> and <img height="15px" alt="nuxtjs" src="./nuxt.png"> 
 
 ---------------------
 

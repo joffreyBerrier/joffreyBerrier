@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I'm Joffrey, a self-taught creative Developer and tech enthusiast.
+I'm Joffrey, a french 🇫🇷 self-taught creative developer and tech enthusiast.
 
 I have been working on IT for 6 years
 I work at [**LeCollectionist**](https://www.lecollectionist.com/fr) as lead developer front-end.

@@ -8,10 +8,10 @@
 
 I'm Joffrey, a french 🇫🇷 self-taught creative developer and tech enthusiast.
 
-I have been working on IT for 6 years
-I work at [**LeCollectionist**](https://www.lecollectionist.com/fr) as lead developer front-end.
+I have been working on IT for 8 years
+I work at [**LeCollectionist**](https://www.lecollectionist.com/fr) as **Head of engineering**
 
-I have started the open source for over 2 years and my first repo was [**vue-spreadsheet**](https://github.com/joffreyBerrier/vue-spreadsheet), a complex spreadsheet component made in **vue.js**
+I have started the open source for over 4 years and my first repo was [**vue-spreadsheet**](https://github.com/joffreyBerrier/vue-spreadsheet), a complex spreadsheet component made in **vue.js**
 
 At the moment I'm creating a complex **[vue-datepicker](https://github.com/joffreyBerrier/vue-datepicker)** using vue3, vite, ts and tailwind
 

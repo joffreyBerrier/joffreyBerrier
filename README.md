@@ -6,20 +6,22 @@
   </a>
 </p>
 
-I'm Joffrey, a french 🇫🇷 self-taught creative developer and tech enthusiast.
+🇫🇷 I'm Joffrey, a French self-taught creative developer and tech enthusiast.
 
-I have been working on IT for 8 years
-I work at [**LeCollectionist**](https://www.lecollectionist.com/fr) as **Head of engineering**
+I have been working in IT for 9 years and currently work at [**Le Collectionist**](https://www.lecollectionist.com/en) as the **Head of Engineering**.
 
-I have started the open source for over 4 years and my first repo was [**vue-spreadsheet**](https://github.com/joffreyBerrier/vue-spreadsheet), a complex spreadsheet component made in **vue.js**
+I started contributing to open source over 5 years ago, and my first repository was [**vue-spreadsheet**](https://github.com/joffreyBerrier/vue-spreadsheet), a complex spreadsheet component made with Vue.js v2.
 
-At the moment I'm creating a complex **[vue-datepicker](https://github.com/joffreyBerrier/vue-datepicker)** using vue3, vite, ts and tailwind
+I'm a maker. My projects include:
 
-I mostly used <img height="15px" alt="vuejs" src="./vuejs.png"> and <img height="15px" alt="nuxtjs" src="./nuxt.png"> 
+A complex **[vue-datepicker](https://github.com/joffreyBerrier/vue-datepicker)** using Vue 3, Vite, TypeScript, and Tailwind.
+A fortune **[wheel](https://github.com/joffreyBerrier/vue-fortune-wheel)** using Vue 3, Vite, and TypeScript.
 
----------------------
+I love <img height="15px" alt="vuejs" src="./vuejs.png"> <img height="15px" alt="nuxtjs" src="./nuxt.png"> <img height="15px" alt="ruby" src="https://cdn.emojidex.com/emoji/seal/Ruby.png">
 
-In case you are interested, I also wrote articles **[on medium](https://medium.com/@joffrey.berrier)**
+I'm also the co-founder of **[Paperoad](https://www.paperoad.com/en)** and **[Details](https://www.details.team)**, not open source projects, but cool ones too ! 👊
+
+In case you're interested, I also write articles on **[Medium](https://medium.com/@joffrey.berrier)**.
 
 <a href="https://github.com/joffreyBerrier">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joffreyBerrier&count_private=true" /> 

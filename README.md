@@ -6,7 +6,7 @@
 </p>
 
 🇫🇷 I'm Joffrey, a French self-taught developer and tech enthusiast.
-I have been working in IT for 10+ years. I'm currently **Head of Engineering** at [**HeyPongo**](https://heypongo.com) and **CTO** at [**ArtxFood**](https://www.artxfood.com). Previously, I spent nearly 5 years at [**Le Collectionist**](https://www.lecollectionist.com/en), first as Lead Front-End Developer then as Head of Engineering, where I built and led a 30+ person global tech team.
+I have been working in IT for 10+ years. I'm currently **Head of Engineering** at [**HeyPongo**](https://heypongo.com) and **CTO** at [**ArtxFood**](https://www.artxfood.fr). Previously, I spent nearly 5 years at [**Le Collectionist**](https://www.lecollectionist.com/en), first as Lead Front-End Developer then as Head of Engineering, where I built and led a 30+ person global tech team.
 
 I started contributing to open source over 6 years ago, and my first repository was [**vue-spreadsheet**](https://github.com/joffreyBerrier/vue-spreadsheet), a complex spreadsheet component made with Vue.js v2.
 
